@@ -1,0 +1,368 @@
+{
+  "alloys": [
+    {
+      "name": "René 41",
+      "composition": {
+        "Ni": "Balance",
+        "Cr": "18.00-20.00%",
+        "Mo": "9.00-10.50%",
+        "Co": "10.00-12.00%",
+        "Al": "1.40-1.80%",
+        "Ti": "3.00-3.30%",
+        "Fe": "5.00% max"
+      },
+      "description": "Rene 41® is a nickel-chromium alloy that contains cobalt, molybdenum and some aluminum and titanium. Rene 41® alloy has a high corrosion resistance, and is easily fabricated. Rene® 41 is a precipitation hardening, nickel-based high temperature alloy possessing high strength in the 1200/1800°F (649/982°C) temperature range. This alloy is designed for use in severely stressed high temperature applications. Rene® 41 wire is also highly corrosion and oxidation resistant. It provides very good resistance to jet engine combustion gases up to 1800°F (982°C).",
+      "applications": "Jet engine and high-speed airframe components, including afterburner parts, turbine casings, wheels, buckets, bolts, and fasteners",
+      "properties": {
+        "melting_point": "2400-2500°F (1316-1371°C)",
+        "density": "0.298 lb/cu in (8249 kg/m³)",
+        "specific_heat_capacity": "0.108 Btu/lb-°F (0.452 kJ/kg-K) at 70-600°F (21-316°C)"
+      }
+    },
+    {
+      "name": "René 77",
+      "composition": {
+        "Ni": "58%",
+        "Cr": "15%",
+        "Co": "15%",
+        "Mo": "4.2%",
+        "Ti": "3.3%",
+        "Al": "4.3%",
+        "Fe": "0.4%",
+        "C": "0.17%",
+        "Si": "0.1%",
+        "Mn": "0.1%"
+      },
+      "description": "René 77 is a nickel-based superalloy designed for high-temperature applications, particularly in aerospace and industrial gas turbines. This alloy offers excellent strength retention and corrosion resistance at elevated temperatures.",
+      "applications": "Gas turbine hot section components and aerospace parts",
+      "properties": {
+        "melting_point": "1210-1290°C (2210-2354°F",
+        "density": "7.95 g/cm³",
+        "specific_heat_capacity": " 0.45 J/(g·K) at room temperature"
+      }
+    },
+    {
+      "name": "René 80",
+      "composition": {
+        "Ni": "60.0-61%",
+        "Cr": "14%",
+        "Co": "9.5%",
+        "Ti": "4-5%",
+        "Mo": "4%",
+        "W": "4%",
+        "Al": "3%",
+        "C": "0.15-0.17%",
+        "B": "0.015%",
+        "Zr": "0.03%"
+      },
+      "description": "René 80 is a nickel-based superalloy designed for high-temperature applications, particularly in gas turbine engines. It offers excellent strength, corrosion resistance, and microstructural stability at elevated temperatures.",
+      "applications": "High-temperature applications in gas turbines and aerospace",
+      "properties": {
+        "melting_point": "1370-1400°C (2498-2552°F)",
+        "density": "7.7-8.03 g/cm³",
+        "specific_heat_capacity": "At 50-100°C: 477 J/kg·K"
+      }
+    },
+    {
+      "name": "René 95",
+      "composition": {
+        "Ni": "61.0%",
+        "Cr": "14.0%",
+        "Co": "8.0%",
+        "Mo": "3.5%",
+        "W": "3.5%",
+        "Nb": "3.5%",
+        "Al": "3.5%",
+        "Ti": "2.54%",
+        "Fe": "<0.3%",
+        "C": "0.16%",
+        "B": "0.01%",
+        "Zr": "0.05%"
+      },
+      "applications": "Gas turbine components and other high-temperature applications"
+    },
+    {
+      "name": "René 108",
+      "composition": {
+        "Ni": "Balance",
+        "Cr": "8.4%",
+        "Co": "9.5%",
+        "Al": "5.5%",
+        "Ti": "0.7%",
+        "W": "9.5%",
+        "Mo": "0.5%",
+        "Ta": "3%",
+        "Hf": "1.5%"
+      },
+      "applications": "High-temperature components in gas turbines and aerospace"
+    },
+    {
+      "name": "René 142",
+      "composition": {
+        "Ni": "Balance",
+        "Co": "11-13%",
+        "Cr": "6-8%",
+        "Ta": "5-7%",
+        "Al": "5-7%",
+        "W": "4-6%",
+        "Re": "2-4%",
+        "Mo": "1-2%",
+        "Hf": "1-2%",
+        "C": "0.1-0.14%",
+        "B": "0.01-0.02%",
+        "Zr": "0.01-0.03%"
+      },
+      "applications": "Gas turbine hot section components"
+    },
+    {
+      "name": "Inconel 718",
+      "composition": {
+        "Ni": "50-55%",
+        "Cr": "17-21%",
+        "Fe": "Balance",
+        "Nb + Ta": "4.75-5.5%",
+        "Mo": "2.8-3.3%",
+        "Ti": "0.65-1.15%",
+        "Al": "0.2-0.8%",
+        "C": "0.08% max",
+        "Mn": "0.35% max",
+        "Si": "0.35% max",
+        "P": "0.015% max",
+        "S": "0.015% max",
+        "B": "0.006% max",
+        "Cu": "0.30% max"
+      },
+      "applications": "Aerospace industry, gas turbines, aircraft engines, rocket engines, nuclear and thermal power plants",
+      "properties": {
+        "melting_point": "Data not available",
+        "density": "Data not available",
+        "tensile_strength": "Data not available",
+        "yield_strength": "Data not available",
+        "elongation": "Data not available",
+        "specific_heat_capacity": "Data not available",
+        "thermal_conductivity": "Data not available"
+      }
+    },
+    {
+      "name": "Hastelloy C-276",
+      "composition": {
+        "Ni": "57%",
+        "Cr": "14.5-16.5%",
+        "Mo": "15-17%",
+        "Fe": "4-7%",
+        "W": "3-4.5%",
+        "Co": "2.5% max",
+        "Mn": "1% max",
+        "C": "0.01% max",
+        "V": "0.35% max",
+        "Si": "0.08% max",
+        "P": "0.04% max",
+        "S": "0.03% max"
+      },
+      "applications": "Chemical processing, pollution control, pulp and paper production, industrial and municipal waste treatment, recovery of sour natural gas",
+      "properties": {
+        "melting_point": "Data not available",
+        "density": "Data not available",
+        "tensile_strength": "Data not available",
+        "yield_strength": "Data not available",
+        "elongation": "Data not available",
+        "specific_heat_capacity": "Data not available",
+        "thermal_conductivity": "Data not available"
+      }
+    },
+    {
+      "name": "Inconel X-750",
+      "composition": {
+        "Ni": "70% min",
+        "Cr": "14-17%",
+        "Fe": "5-9%",
+        "Ti": "2.25-2.75%",
+        "Al": "0.4-1%",
+        "Nb": "0.7-1.2%",
+        "C": "0.08% max",
+        "Mn": "1% max",
+        "Si": "0.5% max",
+        "S": "0.01% max",
+        "Cu": "0.5% max",
+        "Co": "1% max"
+      },
+      "applications": "Springs operating from cryogenic temperatures up to 1300°F (704°C), fasteners and components requiring resistance to high temperature and corrosive environments, nuclear reactors, gas turbines, rocket engines, pressure vessels, aircraft structures",
+      "properties": {
+        "melting_point": "1430°C (2600°F)",
+        "density": "8.28 g/cm³ (0.299 lb/in³)",
+        "tensile_strength": "1350 – 1750 N/mm² (196 – 254 ksi) for Spring Temper + Aged",
+        "yield_strength": "Data not available",
+        "elongation": "Data not available",
+        "specific_heat_capacity": "Data not available",
+        "thermal_conductivity": "Data not available"
+      }
+    },
+    {
+      "name": "Waspaloy",
+      "composition": {
+        "Ni": "58%",
+        "Cr": "19%",
+        "Co": "13%",
+        "Mo": "4%",
+        "Ti": "3%",
+        "Al": "1.4%"
+      },
+      "applications": "Data not available",
+      "properties": {
+        "melting_point": "Data not available",
+        "density": "Data not available",
+        "tensile_strength": "Data not available",
+        "yield_strength": "Data not available",
+        "elongation": "Data not available",
+        "specific_heat_capacity": "Data not available",
+        "thermal_conductivity": "Data not available"
+      }
+    },
+    {
+      "name": "Nimonic 80A",
+      "composition": {
+        "Ni": "70%",
+        "Cr": "19.5%",
+        "Ti": "2.4%",
+        "Al": "1.4%",
+        "Fe": "1.5%",
+        "Co": "1.0%",
+        "Mn": "0.55%",
+        "Si": "0.2%",
+        "C": "0.08%"
+      },
+      "applications": "Data not available",
+      "properties": {
+        "melting_point": "Data not available",
+        "density": "Data not available",
+        "tensile_strength": "Data not available",
+        "yield_strength": "Data not available",
+        "elongation": "Data not available",
+        "specific_heat_capacity": "Data not available",
+        "thermal_conductivity": "Data not available"
+      }
+    },
+    {
+      "name": "Inconel HX (Alloy X)",
+      "composition": {
+        "Ni": "47% (balance)",
+        "Cr": "22%",
+        "Fe": "18%",
+        "Mo": "9%",
+        "Co": "1.5%",
+        "W": "0.6%"
+      },
+      "applications": "Gas turbine engines, combustion chambers, afterburners, tail pipes, industrial furnaces, nuclear engineering",
+      "properties": {
+        "melting_point": "1355°C (2470°F)",
+        "density": "8.22 g/cm³ (0.297 lb/in³)",
+        "tensile_strength": "<1050 N/mm² (<152 ksi)",
+        "yield_strength": "Data not available",
+        "elongation": "Data not available",
+        "specific_heat_capacity": "Data not available",
+        "thermal_conductivity": "Data not available"
+      }
+    },
+    {
+      "name": "Alloy 617",
+      "composition": {
+        "Ni": "52% (balance)",
+        "Cr": "22%",
+        "Co": "12.5%",
+        "Mo": "9%",
+        "Al": "1.2%",
+        "Fe": "1.5% (max)"
+      },
+      "applications": "Gas turbines, ducting, combustion cans, transition liners, petrochemical industry, power-generating plants",
+      "properties": {
+        "melting_point": "Data not available",
+        "density": "Data not available",
+        "tensile_strength": "Data not available",
+        "yield_strength": "Data not available",
+        "elongation": "Data not available",
+        "specific_heat_capacity": "Data not available",
+        "thermal_conductivity": "Data not available"
+      }
+    },
+    {
+      "name": "Incoloy 925",
+      "composition": {
+        "Ni": "44%",
+        "Fe": "29% (balance)",
+        "Cr": "21%",
+        "Mo": "3%",
+        "Ti": "2.1%",
+        "Cu": "1.8%"
+      },
+      "applications": "Data not available",
+      "properties": {
+        "melting_point": "Data not available",
+        "density": "Data not available",
+        "tensile_strength": "Data not available",
+        "yield_strength": "Data not available",
+        "elongation": "Data not available",
+        "specific_heat_capacity": "Data not available",
+        "thermal_conductivity": "Data not available"
+      }
+    },
+    {
+      "name": "Alloy C-22",
+      "composition": {
+        "Ni": "56% (balance)",
+        "Cr": "22%",
+        "Mo": "13%",
+        "W": "3%",
+        "Fe": "3%"
+      },
+      "applications": "Data not available",
+      "properties": {
+        "melting_point": "Data not available",
+        "density": "Data not available",
+        "tensile_strength": "Data not available",
+        "yield_strength": "Data not available",
+        "elongation": "Data not available",
+        "specific_heat_capacity": "Data not available",
+        "thermal_conductivity": "Data not available"
+      }
+    },
+    {
+      "name": "Alloy 59",
+      "composition": {
+        "Ni": "59% (balance)",
+        "Cr": "23%",
+        "Mo": "16%",
+        "Fe": "1% (max)"
+      },
+      "applications": "Data not available",
+      "properties": {
+        "melting_point": "Data not available",
+        "density": "Data not available",
+        "tensile_strength": "Data not available",
+        "yield_strength": "Data not available",
+        "elongation": "Data not available",
+        "specific_heat_capacity": "Data not available",
+        "thermal_conductivity": "Data not available"
+      }
+    },
+    {
+      "name": "HR-160",
+      "composition": {
+        "Ni": "37%",
+        "Co": "29%",
+        "Cr": "28%",
+        "Si": "2.75%",
+        "Fe": "2% (max)"
+      },
+      "applications": "Data not available",
+      "properties": {
+        "melting_point": "Data not available",
+        "density": "Data not available",
+        "tensile_strength": "Data not available",
+        "yield_strength": "Data not available",
+        "elongation": "Data not available",
+        "specific_heat_capacity": "Data not available",
+        "thermal_conductivity": "Data not available"
+      }
+    }
+  ]
+}
