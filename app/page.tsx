@@ -38,12 +38,12 @@ export default function Home() {
             simplify your workflow, save time, and stay ahead in your industry..
           </p>
         </div>
-        <div className='relative items-center w-full mx-auto mt-12'>
+        <div className='w-full mx-auto mt-12 rounded-full'>
           <Image
             src='/alloy-hero.png'
             alt={`${APP_NAME} logo`}
-            width={800}
-            height={500}
+            width={600}
+            height={400}
             className='w-full rounded-lg shadow-2xl border border-gray-800 shadow-slate-500'
           />
         </div>
