@@ -71,8 +71,15 @@
   }
 } */
 
-.properties {
+.dark .properties {
   background-color: rgba(0, 0, 0, 0.5);
+  padding: 20px;
+  color: rgba(255, 255, 255, 0.7);
+}
+
+.properties {
+  background-color: rgba(255, 255, 255, 0.5);
+  padding: 20px;
 }
 
 .properties ul {
